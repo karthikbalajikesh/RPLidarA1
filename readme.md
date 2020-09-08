@@ -9,4 +9,6 @@ Generating custom makefile to install the library in the same folder. A shared l
 * g++
 
 ### Build 
-To build the library, run `./build.sh`
+To build the library,
+* Convert shell script to executable by `chmod +x ./build.sh` .
+* run `./build.sh`
